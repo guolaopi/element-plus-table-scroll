@@ -1,0 +1,26 @@
+{
+  "name": "element-plus-table-scroll",
+  "version": "1.0.0",
+  "description": "Directive for add scroll-load support for element plus's table component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guolaopi/element-plus-table-scroll.git"
+  },
+  "keywords": [
+    "vue3",
+    "element-plus",
+    "table",
+    "directive",
+    "scroll-load"
+  ],
+  "author": "guolaopi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guolaopi/element-plus-table-scroll/issues"
+  },
+  "homepage": "https://github.com/guolaopi/element-plus-table-scroll#readme"
+}
